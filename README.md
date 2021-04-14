@@ -25,4 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 
 Desktop
-![](./images/Screenshot from 2021-04-14 16-03-13.png)
+![](./images/desktop.png)
+
+Mobile
+![](./images/mobile.png)
