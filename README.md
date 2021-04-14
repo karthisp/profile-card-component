@@ -11,7 +11,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -29,3 +28,27 @@ Desktop
 
 Mobile
 ![](./images/mobile.png)
+
+### Links
+
+- Solution URL: [Github](https://github.com/karthisp/profile-card-component)
+- Live Site URL: [Project site](https://karthisp.github.io/profile-card-component/)
+
+## My process
+
+1. Firstly I created a wireframe of the given design to come up with the HTML layout
+2. 
+
+### Built with
+* HTML
+* css
+
+### What I learned
+* I learnt how to work with SVGs for setting vibrant backgrounds for a web page.
+
+## Author
+- Website - [Karthik Sp](http://www.karthiksp.in/)
+- Frontend Mentor - [@karthisp](https://www.frontendmentor.io/profile/karthisp)
+- Linkedin - [Karthik Sp](https://www.linkedin.com/in/karthik-s-p-931345122/)
+
+## Acknowledgments
